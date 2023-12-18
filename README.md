@@ -1,8 +1,8 @@
 <h2>PROJECT FOR DATA ENGINEERING SUBJECT.</h2>
-<p>*Team 3:*
-*Abduhakimov Fayzullo KTL 201-23
-Batirov Jumaniyoz KTL 201-23
-Juraev Khudoyshukur KTL 201-23*
+<p>*Team 3:<br/>
+Abduhakimov Fayzullo KTL 201-23<br/>
+Batirov Jumaniyoz KTL 201-23<br/>
+Juraev Khudoyshukur KTL 201-23<br/>
 
 This repository contains two resources:
 1. Implementation of the system
