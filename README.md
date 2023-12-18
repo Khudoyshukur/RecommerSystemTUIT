@@ -23,4 +23,5 @@ This repository contains two resources:
 
 ![1](https://user-images.githubusercontent.com/69845990/147048920-6aa1a366-8d91-4f91-8aa0-5e497061df17.PNG)
 ![2](https://user-images.githubusercontent.com/69845990/147048926-94d71666-7906-4fb4-a1dc-541d080e0817.PNG)
-![3](https://user-images.githubusercontent.com/69845990/147048928-7734ea06-6b91-4415-9746-8d7f9a5d922b.PNG)
+![telegram-cloud-document-2-5190700549695094788](https://github.com/Khudoyshukur/RecommerSystemTUIT/assets/60431559/0695fba8-1297-470e-9adf-05b4668a08e4)
+
